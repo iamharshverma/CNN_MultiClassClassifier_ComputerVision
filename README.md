@@ -1,4 +1,4 @@
-# CNN_MultiClassClassifier_ComputerVision
+# CNN MultiClassClassifier: ComputerVision
 The project implements several techniques to build CNN and classify multiple classes accurately.
 1. 3-4 Layered CNN
 2. Dropout & Batch Normalization
