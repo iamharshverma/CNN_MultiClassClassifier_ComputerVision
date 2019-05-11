@@ -8,6 +8,7 @@ _________________________________________________________________
 ![model1](output/model1.png)
 
 **Model2: 4-layered CNN with Batch Normalizationa and Dropout Technique**
+
 input_size = (50000, 32, 32, 3)
 _________________________________________________________________
 ![model2](output/model2.png)
